@@ -1,4 +1,4 @@
-# 서랍속책방 - 책 둘러보기 API
+# 서랍속책방 - 책 추천 API
 2021-1학기 컴퓨터과학종합설계 - 책 추천 (content-based filtering) API (AWS EC2)
 
 <br>
