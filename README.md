@@ -8,7 +8,7 @@
 
 <br>
 
-## 사용한 데이터
+## 콘텐츠 기반 필터링
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4cfad3d8-5834-4045-871e-d739d5a0bdef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T052653Z&X-Amz-Expires=86400&X-Amz-Signature=859e8cad43b9e4e34df93fed99507b092ed5104efdd806a73f416580aba4ffdb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <br>
