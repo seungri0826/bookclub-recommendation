@@ -15,3 +15,8 @@
 
 ## 구조 및 설계
 ![](https://user-images.githubusercontent.com/43572543/158791505-04812ba9-39a3-4d1b-8b2b-977158e3441b.png)
+
+<br>
+
+## 동작 예시
+<img src="https://user-images.githubusercontent.com/43572543/168409820-6e9ae831-836f-4c60-bf46-c257b7c3ad92.png" width="250">
